@@ -1,0 +1,33 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+font-family: 'Gotham Rounder', sans-serif;
+}
+
+
+body {
+    background: linear-gradient(to right, black, yellow, orange);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+
+
+
+
+.content {
+    border-radius: 5px;
+    max-width: 100%;
+    background-blend-mode: normal;
+    max-width: 90%;
+    width: 1200px;
+    background-color: White;
+    box-shadow: 0  5px 10px black;
+    background-origin: padding-box;
+
+
+}
+
+
